@@ -109,7 +109,7 @@ class Granite():
             """
             return prompt
         
-        elif task == "get_buyer_persona":
+        elif task == "get_customer_persona":
             prompt = f"""
             You will be given customer profile summary.
 
@@ -121,7 +121,7 @@ class Granite():
             - For each customer segment please identify the persona type, key traits, average purchase, and buyer characteristic.
 
             ### Task
-            Identify buyer persona of each customer segment with following requirements:
+            Identify customer persona of each customer segment with following requirements:
             - Persona type -> example, One-Time High-Intent Purchaser, Trial Buyer, etc
             - Key traits -> example,  Consistent category purchases (Hats), Bulk buying (avg 7 items), Uses credit card, Moderate-high spending, etc
             - Average purchase -> example, $1,000
@@ -213,8 +213,8 @@ class Granite():
         parsed = self.parse_output(response)
         return parsed
     
-    def get_buyer_persona(self, data):
-        prompt = self.get_prompt(data,task="get_buyer_persona")
+    def get_customer_persona(self, data):
+        prompt = self.get_prompt(data,task="get_customer_persona")
         response = replicate.run(
             self.model, 
             input={'prompt': prompt, 
