@@ -97,7 +97,7 @@ Raw and processed data used for analysis and customer segmentation.
 
 📂 `LLM Cost Breakdown/`
 Analyze LLM usage to estimate cost based on input/output token.
-- 📓 `llm_cost_breakdown.ipynb` - Notebook to calculate and document the cost breakdown for LLM (Large Language Model) usage.
+- `llm_cost_breakdown.ipynb` - Notebook to calculate and document the cost breakdown for LLM (Large Language Model) usage.
 
 📓 `data_analysis.ipynb`
 Jupyter notebook containing RFM anlaysis and determine marketing strategies.
