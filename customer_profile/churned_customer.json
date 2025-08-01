@@ -1,0 +1,31 @@
+{
+    "Majority Region": "Northeast",
+    "Payment Method": {
+        "Most": "Credit Card",
+        "Least": "NaN"
+    },
+    "Product Category": {
+        "Most": "Furniture",
+        "Least": "NaN"
+    },
+    "Product Name": {
+        "Most": "Bookcases",
+        "Least": "NaN"
+    },
+    "Order Date": {
+        "Most": "2023-01-25",
+        "Least": "NaN"
+    },
+    "Quantity": {
+        "Most": "2",
+        "Least": "NaN"
+    },
+    "Cost per Item": {
+        "Most": "211.0",
+        "Least": "NaN"
+    },
+    "Sale Price": {
+        "Most": "662",
+        "Least": "NaN"
+    }
+}

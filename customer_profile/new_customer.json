@@ -1,0 +1,31 @@
+{
+    "Majority Region": "West",
+    "Payment Method": {
+        "Most": "EFT",
+        "Least": "COD"
+    },
+    "Product Category": {
+        "Most": "Clothing",
+        "Least": "N/A"
+    },
+    "Product Name": {
+        "Most": "Shirt",
+        "Least": "N/A"
+    },
+    "Order Date": {
+        "Most": "2023-09-09",
+        "Least": "N/A"
+    },
+    "Quantity": {
+        "Most": "2",
+        "Least": "N/A"
+    },
+    "Cost per Item": {
+        "Most": "33.5",
+        "Least": "N/A"
+    },
+    "Sale Price": {
+        "Most": "47",
+        "Least": "N/A"
+    }
+}

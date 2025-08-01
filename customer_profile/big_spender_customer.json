@@ -1,0 +1,31 @@
+{
+    "Majority Region": "Northeast",
+    "Payment Method": {
+        "Most": "Credit Card",
+        "Least": "EFT"
+    },
+    "Product Category": {
+        "Most": "Electronics",
+        "Least": "Furniture"
+    },
+    "Product Name": {
+        "Most": "Phones",
+        "Least": "Bookcases"
+    },
+    "Order Date": {
+        "Most": "2023-05-20",
+        "Least": "I don't know"
+    },
+    "Quantity": {
+        "Most": "4.0",
+        "Least": "1.0"
+    },
+    "Cost per Item": {
+        "Most": "161.0",
+        "Least": "131.0"
+    },
+    "Sale Price": {
+        "Most": "785.0",
+        "Least": "258.0"
+    }
+}

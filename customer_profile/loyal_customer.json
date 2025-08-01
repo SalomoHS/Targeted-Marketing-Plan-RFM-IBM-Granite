@@ -1,0 +1,31 @@
+{
+    "Majority Region": "Southeast",
+    "Payment Method": {
+        "Most": "Credit Card",
+        "Least": "EFT"
+    },
+    "Product Category": {
+        "Most": "Clothing",
+        "Least": "Furniture"
+    },
+    "Product Name": {
+        "Most": "Hat",
+        "Least": "Bookcases"
+    },
+    "Order Date": {
+        "Most": "2023-02-01",
+        "Least": "2023-05-23, 2023-07-12"
+    },
+    "Quantity": {
+        "Most": "7",
+        "Least": "8"
+    },
+    "Cost per Item": {
+        "Most": "NaN",
+        "Least": "3.0"
+    },
+    "Sale Price": {
+        "Most": "338",
+        "Least": "10"
+    }
+}

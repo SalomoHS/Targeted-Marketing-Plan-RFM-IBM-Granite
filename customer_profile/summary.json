@@ -1,0 +1,7 @@
+{
+    "Loyal Customers": "Southeast region, prefer Credit Card payment, most purchases are Clothing, Hats are most bought, average order date is 2023-02-01, average quantity is 7, cost per item varies, average sale price is 338.",
+    "Big Spender": "Northeast region, prefer Credit Card payment, Electronics are most purchased, Phones are most bought, average order date is 2023-05-20, average quantity is 4, cost per item ranges from 131 to 161, average sale price ranges from 258 to 785.",
+    "New Customers": "West region, prefer EFT payment, Clothing is most purchased, Shirts are most bought, average order date is 2023-09-09, average quantity is 2, cost per item is 33.5, average sale price is 47.",
+    "At Risk": "West region, prefer Credit Card payment, Clothing is most purchased, Hats are most bought, average order date is 2023-10-01, average quantity is 7, cost per item ranges from 4.71 to 9, average sale price ranges from 21 to 45.",
+    "Churned": "Northeast region, prefer Credit Card payment, Furniture is most purchased, Bookcases are most bought, average order date is 2023-01-25, average quantity is 2, cost per item is 211, average sale price is 662."
+}
