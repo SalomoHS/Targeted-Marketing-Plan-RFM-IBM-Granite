@@ -74,9 +74,9 @@ The goal of this project is to develop a data-driven marketing plan based on ret
 ---
 
 ### 📁 Project Structure & File Descriptions
-📂 `buyer_persona/`
+📂 `customer_persona/`
 Contains JSON files that define marketing personas for each customer segment based on behavior and demographic insights.
-- `buyer_persona.json` – Consolidated file mapping all buyer personas with attributes like persona type, traits, average spending, and buyer characteristics.
+- `customer_persona.json` – Consolidated file mapping all buyer personas with attributes like persona type, traits, average spending, and buyer characteristics.
 
 📂 `customer_profile/`
 Stores detailed JSON profiles for each customer segment, used to inform targeted marketing strategies.
@@ -124,7 +124,7 @@ Lists all required Python packages and versions needed to run the notebooks and 
 - Output token cost = 26152 × 0.00000025 = $0.006538
 - Total cost = $0.01884141 + $0.006538 = $0.02537941
 
-**📁 Cost breakdown analysis is available in `llm_cost_breakdown.ipynb`**
+**📁 Cost breakdown is available in `llm_cost_breakdown`**
 
 ---
 
