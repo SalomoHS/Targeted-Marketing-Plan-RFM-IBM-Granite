@@ -1,0 +1,32 @@
+{
+    "Loyal Customers": {
+        "persona_type": "Repeat Buyer",
+        "key_traits": "Southeast region, Credit Card payment, Consistent Clothing purchases, Hats are most bought, avg 7 items, moderate spending",
+        "average_purchase": "$338",
+        "buyer_characteristic": "Brand-attached, Quality-focused"
+    },
+    "Big Spender": {
+        "persona_type": "High-Value Customer",
+        "key_traits": "Northeast region, Credit Card payment, Electronics purchases, Phones are most bought, avg 4 items, high spending",
+        "average_purchase": "$500",
+        "buyer_characteristic": "Brand-attached, Quality-focused, Less price-sensitive"
+    },
+    "New Customers": {
+        "persona_type": "Price-Sensitive Buyer",
+        "key_traits": "West region, EFT payment, Clothing purchases, Shirts are most bought, avg 2 items, low spending",
+        "average_purchase": "$47",
+        "buyer_characteristic": "Price-sensitive, Value-focused"
+    },
+    "At Risk": {
+        "persona_type": "Declining Value Customer",
+        "key_traits": "West region, Credit Card payment, Clothing purchases, Hats are most bought, avg 7 items, low spending",
+        "average_purchase": "$35",
+        "buyer_characteristic": "Price-sensitive, Less brand-attached"
+    },
+    "Churned": {
+        "persona_type": "Lost High-Value Customer",
+        "key_traits": "Northeast region, Credit Card payment, Furniture purchases, Bookcases are most bought, avg 2 items, high spending",
+        "average_purchase": "$662",
+        "buyer_characteristic": "Brand-attached, Quality-focused"
+    }
+}
