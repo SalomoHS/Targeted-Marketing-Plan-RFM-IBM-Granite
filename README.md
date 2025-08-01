@@ -130,7 +130,7 @@ Lists all required Python packages and versions needed to run the notebooks and 
 ---
 
 ### Disclaimer
-- Customer profiling and persona definitions in this project were generated using IBM Granite, a large language model (LLM) developed by IBM.
+- Customer profiling, persona definitions, and marketing strategies in this project were generated using IBM Granite, a large language model (LLM) developed by IBM.
 - All insights and segment characterizations are based on AI-driven analysis of the dataset and may not fully represent real-world customer behaviors.
 - Please note that the generated data from language models are probabilistic and may vary depending on input context and model limitations.
 
