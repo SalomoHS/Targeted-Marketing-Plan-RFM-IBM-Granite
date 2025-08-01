@@ -124,7 +124,7 @@ Lists all required Python packages and versions needed to run the notebooks and 
 - Output token cost = 26152 × 0.00000025 = $0.006538
 - Total cost = $0.01884141 + $0.006538 = $0.02537941
 
-**📁 Cost breakdown is available in `llm_cost_breakdown`**
+**📁 Cost breakdown is available in `LLM Cost Breakdown`**
 
 ---
 
