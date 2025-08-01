@@ -95,14 +95,15 @@ Raw and processed data used for analysis and customer segmentation.
 - `Order Details.xlsx` – Detailed transaction-level data including item quantity, unit price, etc.
 - `Regions.csv` – Mapping of customer name to regions (e.g., Northeast, Southeast, West).
 
+📂 `LLM Cost Breakdown/`
+Analyze LLM usage to estimate cost based on input/output token.
+- 📓 `llm_cost_breakdown.ipynb` - Notebook to calculate and document the cost breakdown for LLM (Large Language Model) usage.
+
 📓 `data_analysis.ipynb`
 Jupyter notebook containing RFM anlaysis and determine marketing strategies.
 
 📓 `data_transform.ipynb`
 Notebook used for data preprocessing tasks (e.g., combining sheets, formatting columns).
-
-📓 `llm_cost_breakdown.ipynb`
-Notebook to calculate and document the cost breakdown for LLM (Large Language Model) usage.
 
 📄 `llm.py`
 Python script containing code to call an LLM model (IBM Granite).
